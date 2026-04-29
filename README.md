@@ -162,8 +162,8 @@ pilha.verTopo(); // 300
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gusteodoro04/list1.git
+
 
 # 2. Compile
 javac Exercicios.java
